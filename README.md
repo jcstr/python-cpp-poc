@@ -30,5 +30,6 @@ Output:
 - This is the mandatory first step on every software project! :)
 
 ---
-Python Version used for this work: 3.8.3
-g++ (GCC) 10.1.0
+Tools used for this work
+- Python 3.8.3
+- g++ (GCC) 10.1.0
