@@ -9,7 +9,7 @@ On this first version (MateFacil 0.1) we focus on arithmethical and inequality p
 On the initial design stage we look over Python's subprocesses to execute C++ and Java code.
 This is because some of the 'generators' are written on those languajes and instead of refactor the existing 'generators' we leverage Python's subprocesses to make use of them.
 
-On this repository we'll see all the proof of concetp that helped us to understand the funcionality of Python and C++ through Python's subprocesses.
+On this repository we'll see all the proofs of concepts that helped us to understand the functionality of Python and C++ through Python's subprocesses.
 
 ---
 
