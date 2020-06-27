@@ -1,4 +1,4 @@
-# python-cpp-PoC
+# Python and C++ Proof of Concept
 
 Proofs Of Concepts created from **MateFacil** project.
 
@@ -10,6 +10,8 @@ On the initial design stage we look over Python's subprocesses to execute C++ an
 This is because some of the 'generators' are written on those languajes and instead of refactor the existing 'generators' we leverage Python's subprocesses to make use of them.
 
 On this repository we'll see all the proofs of concepts that helped us to understand the functionality of Python and C++ through Python's subprocesses.
+
+For a more elaborated demonstration about how this code works for the project, take a look over [matefacil-demo](https://github.com/osstecmm/matefacil-demo).
 
 ---
 
